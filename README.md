@@ -1,0 +1,2 @@
+# ZimbraScripts
+Some Zimbra scripts
